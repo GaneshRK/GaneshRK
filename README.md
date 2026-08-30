@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=RAMGANESH%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20IoT%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=RAMGANESH%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20FULL%20STACK%20%7C%20PRODUCT%20BUILDER&descSize=18&descAlignY=62&descColor=E9D5FF" width="100%"/>
 
 <h1>Hi, I'm Ramganesh 👋</h1>
 
-<h3>AI/ML • Full-Stack Development • Flutter Developer • IoT • Innovation</h3>
+<h3>AI/ML • Full-Stack Development • Flutter Developer • Innovation</h3>
 
 <p>
   <em>
@@ -198,7 +198,7 @@ https://github.com/GaneshRK/helpinghands-original
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgesql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 
 ### 📡 IoT / Hardware
 
@@ -206,7 +206,7 @@ https://github.com/GaneshRK/helpinghands-original
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscod,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </div>
 
@@ -236,7 +236,7 @@ https://github.com/GaneshRK/helpinghands-original
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GaneshRK/GaneshRK/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/GaneshRK/GaneshRK/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -246,18 +246,18 @@ https://github.com/GaneshRK/helpinghands-original
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║                    CURRENT MISSION                    ║
+║                    CURRENT MISSION                   ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  🧠 Deepen AI / ML engineering                       ║
 ║                                                      ║
 ║  🌐 Build production-ready applications              ║
-║                                                      ║
+║                                                       ║
 ║  ⚡ Explore Edge AI & intelligent IoT                ║
 ║                                                      ║
-║  🏗️ Transform prototypes into real products         ║
+║  🏗️ Transform prototypes into real products          ║
 ║                                                      ║
-║  🚀 Build projects with measurable impact             ║
+║  🚀 Build projects with measurable impact            ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -353,6 +353,7 @@ They are the ones that solve the **right problem**.
        └───────┬───────┘
                │
                └──────────────→ 🔁
+
 ```
 
 </div>
@@ -417,6 +418,16 @@ They are the ones that solve the **right problem**.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+<a href="mailto:ramganesh.r.ciet@gmail.com"> <img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-8B5CF6?style=for-the-badge&logoColor=white"/> </a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+🖤 Code. Create. Innovate. Impact. 💜
+
+© Ramganesh R • Building the future one project at a time.
 
 </div>
