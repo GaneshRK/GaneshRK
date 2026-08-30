@@ -1,433 +1,371 @@
-<!-- ========================================================= -->
-
-<!--                     HERO SECTION                          -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=RAMGANESH%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20FULL%20STACK%20%7C%20PRODUCT%20BUILDER&descSize=18&descAlignY=62&descColor=E9D5FF" width="100%"/>
 
-<h1>Hi, I'm Ramganesh 👋</h1>
+# 👋 Hey, I'm **Ramganesh R**
 
-<h3>AI/ML • Full-Stack Development • Flutter Developer • Innovation</h3>
+### 🧠 AI/ML Developer • Full-Stack Developer • Product Builder • Innovator
 
 <p>
-  <em>
-    I don't just learn technologies — I turn ideas into working systems.
-  </em>
+  <a href="https://github.com/GaneshRK">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramganesh.r.ciet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<br>
-
-<a href="https://github.com/GaneshRK">
-<img src="https://komarev.com/ghpvc/?username=GaneshRK&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="https://github.com/GaneshRK?tab=followers">
-<img src="https://img.shields.io/github/followers/GaneshRK?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</a>
-
-<a href="https://github.com/GaneshRK?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=GaneshRK&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### ⚡ Building Technology That Solves Real Problems
-
-```text
-        IDEA
-         ↓
-     EXPERIMENT
-         ↓
-      PROTOTYPE
-         ↓
-     ENGINEERING
-         ↓
-       IMPACT
-```
-
-</div>
-
----
-
-# 🧠 About Me
-
-I'm **Ramganesh R**, a Computer Science & Engineering student specializing in **AI & Machine Learning**, with a strong interest in building practical technology.
-
-My interests sit at the intersection of:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Computer Vision
-* 🌐 Full-Stack Web Development
-* 📱 Application Development
-* 📡 IoT & Embedded Systems
-* ⚡ Edge AI
-* 🧩 Automation & Intelligent Systems
-* 🚀 Product & Startup Innovation
-
-I enjoy taking an idea from a **problem statement → prototype → functional product**.
+## ⚡ Who Am I?
 
 ```python
 class Ramganesh:
 
     def __init__(self):
-        self.role = "Student • Builder • Problem Solver"
+
+        self.name = "Ramganesh R"
+        self.username = "GaneshRK"
+        self.role = "AI/ML + Full-Stack Developer"
+
         self.focus = [
             "Artificial Intelligence",
             "Machine Learning",
             "Full-Stack Development",
-            "IoT & Edge AI"
+            "Computer Vision",
+            "Generative AI",
+            "Product Engineering"
         ]
 
-        self.mindset = [
-            "Build",
-            "Break",
-            "Learn",
-            "Improve",
-            "Ship"
+        self.building = [
+            "AI-powered applications",
+            "Production-ready web platforms",
+            "Developer tools",
+            "Intelligent automation systems",
+            "Social-impact technology"
         ]
 
-    def philosophy(self):
-        return "Technology is valuable when it creates real-world impact."
+        self.mindset = "Build → Learn → Innovate → Impact"
 
+    def mission(self):
+        return "Turning real-world problems into intelligent products."
 
 me = Ramganesh()
 
-print(me.philosophy())
+print(me.mission())
 ```
 
 ---
 
-# 🚀 What I Build
+## 🚀 What I Build
 
-| Domain              | What I Work On                                            |
-| ------------------- | --------------------------------------------------------- |
-| 🤖 AI / ML          | Intelligent systems, prediction, automation               |
-| 👁️ Computer Vision | Image processing, recognition & vision-based applications |
-| 🌐 Web              | Full-stack applications & developer platforms             |
-| 📱 Apps             | Cross-platform application experiences                    |
-| 📡 IoT              | Connected devices & sensor-driven systems                 |
-| ⚡ Edge AI           | Running intelligent systems closer to the device          |
-| 🧠 Developer Tools  | Platforms that make programming easier                    |
-| 🚀 Innovation       | Turning real-world problems into technology               |
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* RAG Systems
+* AI Automation
+* Intelligent Assistants
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack Systems
+
+* Modern Web Applications
+* REST APIs
+* Authentication
+* Databases
+* Admin Dashboards
+* Cloud Deployment
+* Production Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📱 Application Development
+
+* Flutter
+* Cross-platform applications
+* API integration
+* Real-time systems
+* Responsive UI/UX
+
+</td>
+
+<td width="50%">
+
+### 💡 Innovation
+
+* Product Development
+* Startup Ideas
+* Social Impact
+* Hackathons
+* SIH Projects
+* Research & Prototyping
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🏗️ Featured Projects
+# 🧩 Featured Projects
 
-### 🔥 Projects I'm Building & Exploring
+> A few projects that represent what I'm building.
 
-### 💻 Devetryx — Web-Based Coding Platform
+### 🧠 NEXYRON
 
-> An interactive web-based coding platform designed to provide a practical environment for learning, experimenting with and executing code.
+**AI-powered intelligent platform**
 
-**Focus:** Web Development • Developer Tools • Programming Platforms
+A major project focused on building a modern, production-ready intelligent software ecosystem.
 
-🔗 Repository:
-https://github.com/GaneshRK/Devetryx-web-based-coding-platform
+**Focus:** AI • Automation • Full Stack • Intelligent Systems
 
----
-
-### 🧤 GloveCom — Smart Sign Language System
-
-> A smart wearable communication system combining sensors, BLE connectivity, gesture recognition and software to assist sign-language communication.
-
-**Focus:** IoT • BLE • Gesture Recognition • AI • Flutter • Embedded Systems
-
-🔗 Repository:
-https://github.com/GaneshRK/GloveCom-_2.0
-
----
-
-### ⚡ NEXYRON — Intelligent Digital Platform
-
-> A modern technology platform focused on building intelligent, scalable and production-oriented digital solutions. NEXYRON represents my transition from individual experiments toward structured, real-world software engineering.
-
-**Focus:** Full-Stack Development • AI • Automation • Production Engineering • Scalable Systems
-
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/GaneshRK/NEXYRON
 
 ---
 
-### 🎙️ RAGVoice AI — Voice-Powered AI
+### 🤝 HelpingHands Original
 
-> An experimental AI system exploring voice interaction with Retrieval-Augmented Generation to create more useful and context-aware conversational experiences.
+**Company Portfolio + Product Selling Platform**
 
-**Focus:** Python • Generative AI • RAG • Voice Interfaces • AI Engineering
+A complete digital platform designed for a company to showcase its services, products and brand while also supporting product selling functionality.
 
-🔗 Repository:
-https://github.com/GaneshRK/RAGVoice_AI
+**Focus:** Business Platform • E-Commerce • Product Management • Full Stack
 
----
-
-### 🏢 HelpingHands Original — Company & Product Platform
-
-> A complete company-focused web platform designed to showcase a business, its services and products while providing an integrated product-selling experience. The project combines a professional company portfolio with an e-commerce-oriented product presentation and purchasing workflow.
-
-**Focus:** Company Portfolio • Product Showcase • E-Commerce • Full-Stack Development • Business Web Applications
-
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/GaneshRK/helpinghands-original
 
 ---
 
-### 🚀 From Ideas → Products → Impact
+### 💻 Devetryx
 
-`Devetryx` • `GloveCom` • `NEXYRON` • `RAGVoice AI` • `HelpingHands`🧰 Tech Arsenal
+**Web-Based Coding Platform**
 
-<div align="center">
+An interactive coding environment designed to allow users to write, execute and experiment with programming languages directly through the web.
 
-### 👨‍💻 Languages
+**Focus:** Developer Tools • Web Development • Code Execution • AI
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css"/>
+🔗 **Repository:**
+https://github.com/GaneshRK/Devetryx-web-based-coding-platform
 
-### 🌐 Web & Application Development
+---
 
-<img src="https://skillicons.dev/icons?i=react,flask,django,tailwind"/>
+### 🧠 AI & Intelligent Systems
+
+I continuously experiment with:
+
+```text
+Artificial Intelligence
+       ↓
+Machine Learning
+       ↓
+Computer Vision
+       ↓
+Generative AI
+       ↓
+RAG
+       ↓
+Automation
+       ↓
+Real-World Products
+```
+
+---
+
+# 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,django,tailwind" />
+</p>
 
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
 
-### 📡 IoT / Hardware
+### 📱 Mobile & Embedded
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,arduino,raspberrypi" />
+</p>
 
-### 🛠️ Tools
+### ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshRK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRK&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&text_color=E9D5FF" height="180"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Command Center
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshRK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=GaneshRK&theme=black-ice&hide_border=true&background=050505&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E9D5FF&dates=8B5CF6" />
 
 </div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshRK&bg_color=050505&color=E9D5FF&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GaneshRK&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   🧠 Advanced AI / ML                           │
+│                                                 │
+│   🌐 Production Full-Stack Applications         │
+│                                                 │
+│   🤖 Generative AI & RAG                        │
+│                                                 │
+│   🏗️ Scalable System Architecture              │
+│                                                 │
+│   🚀 Product & Startup Development              │
+│                                                 │
+│   🏆 Hackathons & Innovation                    │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+### **"Don't just write code. Build something that matters."**
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GaneshRK&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GaneshRK/GaneshRK/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+**Problem**
+↓
+**Research**
+↓
+**Prototype**
+↓
+**Engineer**
+↓
+**Deploy**
+↓
+**Impact**
 
 </div>
 
 ---
 
-# 🎯 Current Mission
+# 🌍 Beyond Code
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                    CURRENT MISSION                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  🧠 Deepen AI / ML engineering                       ║
-║                                                      ║
-║  🌐 Build production-ready applications              ║
-║                                                       ║
-║  ⚡ Explore Edge AI & intelligent IoT                ║
-║                                                      ║
-║  🏗️ Transform prototypes into real products          ║
-║                                                      ║
-║  🚀 Build projects with measurable impact            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+I'm interested in building technology that goes beyond demonstrations.
+
+### I care about:
+
+* 🌍 Real-world problem solving
+* 🧠 Applied Artificial Intelligence
+* ♿ Accessibility technology
+* 🚀 Startup & product development
+* 🏆 Innovation competitions
+* 🔬 Research-driven engineering
+* 🌐 Scalable digital platforms
 
 ---
 
-# 📚 Currently Exploring
-
-```text
-AI / ML
-├── Computer Vision
-├── Deep Learning
-├── Generative AI
-├── RAG Systems
-└── Intelligent Automation
-
-Software Engineering
-├── System Design
-├── Backend Architecture
-├── APIs
-├── Production Engineering
-└── DevOps
-
-IoT / Edge
-├── ESP32
-├── BLE
-├── Sensor Fusion
-├── Edge AI
-└── Embedded Intelligence
-```
-
----
-
-# 💡 My Engineering Philosophy
+# 🤝 Let's Build Something
 
 <div align="center">
 
-> **Don't build technology just because you can.**
->
-> **Build it because someone needs it.**
+If you're interested in:
 
-</div>
+**AI • Full Stack • Product Development • Innovation • Research**
 
-```text
-Curiosity → Learning → Experimentation → Engineering → Impact
-```
+Let's connect and build something meaningful.
 
-I believe the best projects are not the ones with the most technologies.
+<br>
 
-They are the ones that solve the **right problem**.
-
----
-
-# 🏆 Highlights
-
-* 🧠 Building projects across AI, software and hardware
-* 🤖 Exploring practical Artificial Intelligence
-* 📡 Working at the intersection of IoT + intelligent systems
-* 🌐 Building full-stack applications
-* 🧩 Developing tools and platforms for developers
-* 🚀 Participating in innovation and problem-solving initiatives
-* 📚 Continuously expanding my engineering skill set
-
----
-
-# 🌱 The Builder's Loop
-
-<div align="center">
-
-```text
-       ┌───────────────┐
-       │    OBSERVE    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    QUESTION   │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     TEST      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     IMPACT    │
-       └───────┬───────┘
-               │
-               └──────────────→ 🔁
-
-```
-
-</div>
-
----
-
-# 🔭 What's Next?
-
-```text
-2026
- │
- ├── 🚀 Build stronger AI/ML projects
- │
- ├── 🧠 Explore advanced AI systems
- │
- ├── ⚡ Combine AI + IoT + Edge Computing
- │
- ├── 🌐 Deploy production-grade applications
- │
- ├── 🏆 Participate in innovation challenges
- │
- └── 💡 Turn high-impact ideas into products
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:[ramganesh.r.ciet@gmail.com](mailto:ramganesh.r.ciet@gmail.com)">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GaneshRK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:ramganesh.r.ciet@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-8B5CF6?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 💬 Open to
-
-**Collaboration • Hackathons • Research • AI Projects • Open Source • Innovation**
-
-</div>
-
 ---
-
-<div align="center">
-
-### ⚡ One Line That Defines My GitHub
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=750&lines=I+build+systems%2C+not+just+projects.;AI+%7C+Full-Stack+%7C+IoT+%7C+Innovation;Turning+problems+into+engineering+solutions.;Learn.+Build.+Break.+Improve.+Repeat."/>
-
-<br><br>
-
-**`Build → Learn → Innovate → Impact 🚀`**
-
-<br>
-
-<a href="mailto:ramganesh.r.ciet@gmail.com"> <img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-8B5CF6?style=for-the-badge&logoColor=white"/> </a>
-
-</div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-🖤 Code. Create. Innovate. Impact. 💜
+### 🖤 **Code. Create. Innovate. Impact.** 💜
 
-© Ramganesh R • Building the future one project at a time.
+**© Ramganesh R • Building the future one project at a time.**
 
 </div>
